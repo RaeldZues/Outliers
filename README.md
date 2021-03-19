@@ -1,5 +1,8 @@
 # Finding-outliers
 
+Circa 2016
+Note: This is here for data retention only
+
 This is primarily a project used to find outliers in hosts to potentially target for further collection of info. 
 The concept is to allow network teams to feed you tippers and use host collection data to feed into this project
 
